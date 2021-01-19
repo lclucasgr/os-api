@@ -1,0 +1,9 @@
+package com.algaworks.os.api.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Comentario {
+    private Long id;
+    
+}

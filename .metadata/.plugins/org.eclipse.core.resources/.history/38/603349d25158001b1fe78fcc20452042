@@ -1,0 +1,5 @@
+package com.algaworks.os.api.model;
+
+public class OrdemServicoModel {
+
+}

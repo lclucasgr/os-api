@@ -1,0 +1,4 @@
+NotBlank=Preenchimento obrigatório
+NotNUll=Preenchimento obrigatório
+Size=Deve ter no mínimo {2} caracteres e no máximo {1} caracteres
+Email=Deve ser um e-mail válido

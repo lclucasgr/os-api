@@ -1,0 +1,5 @@
+package com.algaworks.os.domain.exception;
+
+public class EntidadeNaoEncontradaException extends NegocioException {
+
+}

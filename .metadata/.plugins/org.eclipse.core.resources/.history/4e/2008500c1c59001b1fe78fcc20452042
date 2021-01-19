@@ -1,0 +1,7 @@
+package com.algaworks.os.api.model;
+
+public class ClienteIdInput {
+	
+	private Long id;
+
+}

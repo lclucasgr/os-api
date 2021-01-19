@@ -1,0 +1,7 @@
+package com.algaworks.os.domain.repository;
+
+public class ComentarioRepository extends JpaRepository<Comentario, Long>{
+	
+	
+
+}
