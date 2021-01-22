@@ -1,0 +1,1 @@
+ALTER TABLE cliente change telefone fone VARCHAR(20);
