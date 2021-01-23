@@ -1,0 +1,13 @@
+package com.algaworks.os.api.model;
+
+import java.math.BigDecimal;
+
+public class OrdemServicoModel {
+	
+	private Long id;
+	private String nomeCliente;
+	private String descricao;
+	private BigDecimal preco;
+	
+
+}

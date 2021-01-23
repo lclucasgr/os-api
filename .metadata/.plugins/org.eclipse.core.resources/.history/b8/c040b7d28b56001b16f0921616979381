@@ -1,0 +1,5 @@
+package com.algaworks.os.domain.repository;
+
+public interface ClienteRepository {
+
+}

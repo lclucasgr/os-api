@@ -1,0 +1,9 @@
+package com.algaworks.os.api.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/ordens-servico/{ordemServicoId}/comentarios")
+public class ComentarioController {
+
+}

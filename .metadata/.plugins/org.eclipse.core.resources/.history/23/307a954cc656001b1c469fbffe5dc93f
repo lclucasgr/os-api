@@ -1,0 +1,5 @@
+package com.algaworks.os.api.exceptionhandler;
+
+public class Problema {
+
+}
